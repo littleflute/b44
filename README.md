@@ -1,11 +1,11 @@
-[v0.0.2](https://github.com/littleflute/b44/edit/master/README.md)
-
-
+[v0.0.3](https://github.com/littleflute/b44/edit/master/README.md)
 <br> 
 <div id="divCurPic"></div> 
 <br> 
-<button onclick="show(1)">+1</button> 
-<img id="myImg" width="320" height="200" src="044/DSC_4726.JPG" > 
+<button onclick="show(1)">+1</button>
+
+<button onclick="show(-1)">-1</button> <br>
+<img id="myImg"   src="https://littleflute.github.io/b44/044/DSC_4726.JPG" > 
 </img>  
 <br>
 
@@ -22,6 +22,7 @@ function show(i) {
     vid.src = s;
 } 
 </script> 
+
 
 
 
